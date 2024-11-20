@@ -1,2 +1,0 @@
-This is a new file first line
-2nd line added in local b1
