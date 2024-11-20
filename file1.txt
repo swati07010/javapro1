@@ -1,1 +1,2 @@
-This is file1 on branch b1
+This is a new file first line
+2nd line added in local b1
